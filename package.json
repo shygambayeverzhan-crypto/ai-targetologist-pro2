@@ -1,0 +1,9 @@
+{
+  "name": "ai-targetologist-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI Targetologist on Vercel: static frontend + serverless API functions, Supabase (Postgres) for shared data, Claude API proxy, admin code checked server-side.",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.4"
+  }
+}
